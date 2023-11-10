@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Portfolio 2</string>
+    <string name="Project_information">Projects</string>
+    <string name="Profile_information">Profile</string>
+    <string name="Art_information">Artwork</string>
+    <string name="Social_information">Social</string>
+    <string name="Instruktions_main_page"> Hello and welcome!
+This is my portfolio,
+By clicking the \"Projects\" button you can view my previous projects i have worked on.
+Clicking the \"Artwork\" button will show you some of my designs.
+The "Profile\" button will take you a short informatory text about me in both my personal life and professional life.
+Lastly you find links to my social accounts by clicking the \"Social\" button. </string>
+</resources>
