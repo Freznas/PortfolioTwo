@@ -13,7 +13,7 @@ class ProjectActivity : AppCompatActivity() {
     lateinit var binding: ActivityProjectBinding
     val projectList = listOf(
 
-        Project("Portfolio", "", R.drawable.kodsnutt_portfolio),
+        Project("Portfolio", "https://github.com/Freznas/PortfolioTwo.git", R.drawable.kodsnutt_portfolio),
         Project("NotePad", "https://github.com/Freznas/NotePad.git",R.drawable.notepad_exempel),
         Project("Giuseppe's trattoria", "https://github.com/Freznas/Restaurant_Menu.git", R.drawable.trattoria_exempel),
         Project("Furious Criminal's Kalkylator", "https://github.com/Freznas/furious_criminals_kalkylator.git",R.drawable.grupp_kalkylator),
