@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
         socialButton.setOnClickListener {
             val intent = Intent(this, SocialActivity::class.java)
             startActivity(intent)
+            //!
         }
     }
 }
